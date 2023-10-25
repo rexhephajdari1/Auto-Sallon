@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+}
+
+.background-overlay {
+  background-image: url(./img/autosallon.png);
+  background-position: center;
+  background-size: cover;
+  opacity: 0.5;
+}
+
+.text-background {
+  text-align: center;
+  padding: 300px;
+  color: aliceblue;
+}
+.btn {
+  margin-left: 100px;
+  width: 120px;
+}
+
+.card {
+  width: 100%;
+  min-height: 550px;
+}
+
+.images-card {
+  height: 250px;
+}
+
+.images-card > img {
+  width: 100%;
+  height: 100%;
+}
+
+.card :hover {
+  cursor: pointer;
+  transform: scale(1.04);
+}
+
+.text-dec {
+  text-decoration: none;
+}

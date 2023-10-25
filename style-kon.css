@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.kontakt {
+    background-image: url('./img/contact.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    border: 1px solid black; 
+    
+}
+
+.text-con{
+    text-align: center;
+    padding: 300px;
+    color: aliceblue;
+    font-size: 20px;
+
+
+}
+
+
+.ifarm-con{
+  align-items: center;
+}
